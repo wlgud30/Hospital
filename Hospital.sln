@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{69A86523-65FF-4BFE-B3B9-C8C068845F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalTest", "HospitalTest\HospitalTest.csproj", "{AD2E4759-7924-4CA3-9901-1F527D241CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69A86523-65FF-4BFE-B3B9-C8C068845F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A86523-65FF-4BFE-B3B9-C8C068845F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A86523-65FF-4BFE-B3B9-C8C068845F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A86523-65FF-4BFE-B3B9-C8C068845F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2E4759-7924-4CA3-9901-1F527D241CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2E4759-7924-4CA3-9901-1F527D241CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2E4759-7924-4CA3-9901-1F527D241CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2E4759-7924-4CA3-9901-1F527D241CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
