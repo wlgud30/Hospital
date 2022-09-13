@@ -1,0 +1,13 @@
+.idea
+**/coverage.cobertura.xml
+**/*.dotsettings
+**/*.user
+*.dotsettings
+**/TestResults
+cue.mod
+
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
